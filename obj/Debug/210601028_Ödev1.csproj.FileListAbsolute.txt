@@ -1,0 +1,11 @@
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\bin\Debug\nesne_odev.exe.config
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\bin\Debug\nesne_odev.exe
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\bin\Debug\nesne_odev.pdb
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\210601028_Ödev1.csproj.AssemblyReference.cache
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\210601028_Ödev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\nesne_odev.Form1.resources
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\nesne_odev.Properties.Resources.resources
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\210601028_Ödev1.csproj.GenerateResource.cache
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\210601028_Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\nesne_odev.exe
+C:\Users\huawei\OneDrive\Masaüstü\nesne_odev\obj\Debug\nesne_odev.pdb
