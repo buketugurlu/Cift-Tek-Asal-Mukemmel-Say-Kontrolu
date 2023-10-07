@@ -1,0 +1,1 @@
+# Cift-Tek-Asal-Mukemmel-Say-Kontrolu
